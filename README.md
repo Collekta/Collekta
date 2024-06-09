@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Collekta
+- 👋 Hi, I’m @theCollekta
 - 👀 I’m interested in the intersection of music and technology, focusing on creative content, metadata and seamless digital distribution.
 - 🌱 I’m currently learning about software engineering (Python) and advanced techniques in music metadata coding and digital content distribution.
 - 💞️ I’m looking to learn and collaborate on projects that enhance the accuracy and fairness of content tracking and royalty allocation in the music industry.
